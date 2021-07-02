@@ -1,0 +1,16 @@
+body{
+background-size: cover;
+}
+.Waffels{
+font-size: 32px;
+width: 100%;
+margin: 0;
+}
+#MyMomNeedsTogimmeIcecream{
+font-size: 23px;
+margin: 15px;
+}
+canvas{
+border: 5px solid lightpink;
+border-radius: 15px;
+}
